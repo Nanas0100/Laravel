@@ -1,0 +1,77 @@
+.button-change-left{
+  display:flex;
+}
+.button-change > .now-left{
+  width:68px;
+  font-family:'HuiFontP109';
+  color:white; background:#00aebb;
+  padding:5px 9px;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  margin-right:10px;
+}
+.button-change > .right{
+  width:68px;
+  font-family:'HuiFontP109';
+  color:#00aebb;
+  background:white;
+  border:#00aebb solid 2px;
+  padding:5px 9px;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  margin-right:10px;
+}
+.button-change > .left{
+  font-family:'HuiFontP109';
+  width:68px;color:#00aebb;
+  background:white;
+  border:#00aebb solid 2px;
+  padding:5px 9px;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  margin-right:10px;
+}
+.button-change > .now-right{
+  font-family:'HuiFontP109';
+  width:68px;color:white;
+  background:#00aebb;
+  padding:5px 9px;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  margin-right:10px;
+}
+.card{
+  padding:10px 7px;
+}
+.box > p{
+  border-radius:13px;
+  width:114px;
+  padding:0 7px;
+  color:white;
+  background:red;
+  font-family:'HuiFontP109';
+}
+.box > h5{
+  padding:5px 10px;
+  color:black;
+}
+.box > h5 > a{
+  font-family:'HuiFontP109';
+  color:black;
+}
+.box > .left{
+  font-family:'HuiFontP109';color:#00aebb;
+  float:right; margin:7px 5px 3px 5px;
+  padding:0 6px;
+  border:1px solid;
+  border-radius:5px;
+}
+.box > .right{
+  font-family:'HuiFontP109';
+  color:#00aebb;
+  float:right;
+  margin:7px 5px 3px 5px;
+  padding:0 3px;
+  border:1px solid;
+  border-radius:5px;
+}
